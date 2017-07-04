@@ -1,0 +1,4 @@
+Sozluk veritabanýna servis aracýlýðý ile kayýt eklenebilir, bütün kayýtlar listelenebilir. Tek baþýna çalýþýr
+Methodlar
+-AddDurum
+-GetDurums
